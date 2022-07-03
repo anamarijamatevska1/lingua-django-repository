@@ -1,0 +1,45 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+}
+
+.lander-image {
+  width: 100%;
+}
+
+@media only screen and (min-width: 769px) {
+  .lander-image {
+    width: 40%;
+  }
+}
+
+.row h1 {
+  color: #539e8a;
+}
+
+.row .col-xs-12 {
+  color: #ba897f;
+}
+
+.green-button {
+  background-color: #539e8a;
+  border-color: #539e8a;
+  color: #fff;
+  width: 100%;
+}
+
+.button-section a:visited {
+  color: #fff;
+}
+
+.lander-sign-up {
+  font-weight: bold;
+}
+
+.lander-sign-up a,
+.lander-sign-up a:hover,
+.lander-sign-up a:visited,
+.lander-sign-up a:active {
+  color: #ba897f;
+}

@@ -1,0 +1,124 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.rounded-logo {
+    width: 150px;
+}
+
+.form-container button {
+    background: #539e8a;
+}
+
+.login-button {
+    width: 100%;
+    text-align: center;
+}
+
+.register-message a,
+.register-message a:hover,
+.register-message a:visited,
+.register-message a:active {
+  color: #539e8a;
+}
+
+.back-icon a,
+.back-icon a:hover,
+.back-icon a:visited,
+.back-icon a:active {
+  color: darkgrey;
+}
+
+.login-heading {
+    color: darkgrey;
+}
+
+.form-container {
+    color: grey;
+}
+
+.navigation a,
+.navigation a:hover,
+.navigation a:visited,
+.navigation a:active {
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.active {
+    color: black !important;
+}
+
+.card-title {
+    color: #539e8a;
+}
+
+#courseSection h3 {
+    color: #539e8a;
+}
+
+#courseSection p {
+    color: #ba897f;
+}
+
+.accordion-body p {
+    color: #539e8a;
+}
+
+.accordion-body span {
+    color: grey;
+}
+
+#courseSection button {
+    background: #539e8a;
+    color: white;
+}
+
+.lesson-buttons a {
+    background: #539e8a;
+    color: white;
+    width: 100%;
+}
+
+.faq-title {
+    color: #539e8a;
+}
+
+#quizSection button {
+    background: #539e8a;
+    color: white;
+    width: 100%;
+}
+
+.finish-quiz button {
+    background: #539e8a;
+    color: white;
+    width: 100%;
+}
+
+#trophySection h3 {
+    color: #539e8a;
+}
+
+#trophySection a {
+    background: #539e8a;
+    color: white;
+    width: 100%;
+}
+
+.signature {
+    text-decoration: underline;
+}
+
+.certificateSection h3 {
+    color: #539e8a;
+}
+
+.certificateSection img {
+    width: 12.5rem;
+}
+
+.congratsMessage h3 {
+    color: #ba897f;
+}
