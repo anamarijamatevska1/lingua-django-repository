@@ -128,4 +128,8 @@ MEDIA_URL = "/assets/"
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://anamarijamatevska-lingua.herokuapp.com'
+]
+
 django_heroku.settings(locals())
